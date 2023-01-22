@@ -1,0 +1,4 @@
+{
+  "QUIET_INITIATIVE.OptionL": "Quiet Combat-Tracker Initiative",
+  "QUIET_INITIATIVE.OptionD": "Enabling this option will fast-forward the advantage dialog box for initiative rolls when clicking for initiative via the combat-tracker. It will be up to you to press alt for advantage or ctrl for disadvantage when you click."
+}

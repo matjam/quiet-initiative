@@ -1,0 +1,54 @@
+{
+    "id": "quiet-initiative",
+    "title": "Quiet Initiative",
+    "description": "Make initiative rolled from the combat tracker quieter.",
+    "system": [ "dnd5e" ],
+    "version": "1.0.0",
+    "authors": [
+      {
+        "name": "matjam",
+        "email": "chrome@stupendous.net",
+        "discord": "matjam#0856"
+      }
+    ],
+    "relationships": {
+      "systems": [
+        {
+          "id": "dnd5e",
+          "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+          "compatibility": {
+            "minimum": "2.1.2",
+            "verified": "2.1.2"
+          }
+        }
+      ],
+      "requires": [
+        {
+          "id": "lib-wrapper",
+          "type": "module",
+          "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+          "compatibility": {
+            "minimum": "1.12.11.0",
+            "verified": "1.12.11.0"
+          }
+        }
+      ]
+    },
+    "esmodules": [
+        "scripts/quiet-initiative.mjs"
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "url": "",
+    "compatibility": {
+      "minimum": 10,
+      "verified": "10.291"
+    },
+    "manifest": "",
+    "download": ""
+  }

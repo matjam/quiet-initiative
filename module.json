@@ -3,7 +3,7 @@
     "title": "Quiet Initiative",
     "description": "Make initiative rolled from the combat tracker quieter.",
     "system": [ "dnd5e" ],
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
       {
         "name": "matjam",
@@ -49,6 +49,6 @@
       "minimum": 10,
       "verified": "10.291"
     },
-    "manifest": "",
-    "download": ""
+    "manifest": "https://raw.githubusercontent.com/matjam/quiet-initiative/main/module.json",
+    "download": "https://github.com/matjam/quiet-initiative/archive/refs/heads/main.zip"
   }

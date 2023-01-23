@@ -4,6 +4,10 @@ Simple module to remove the initiative advantage popup for those that like to ju
 
 Character sheet will still work the correct way.
 
+You can configure it per-user in the settings:
+
+![screenshot](https://raw.githubusercontent.com/matjam/quiet-initiative/main/assets/ss.png)
+
 Use at your own peril!
 
 ## Why?!

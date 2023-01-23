@@ -21,5 +21,3 @@ Load the module using the following manifest:
 ```
 https://raw.githubusercontent.com/matjam/quiet-initiative/main/module.json
 ```
-
-I don't intend to put this module on the module catalog because it's my first module and it's kinda doing things in a dirty way.

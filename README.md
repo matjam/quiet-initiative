@@ -6,6 +6,10 @@ Character sheet will still work the correct way.
 
 Use at your own peril!
 
+## Why?!
+
+Because in previous releases of dnd5e you could fast forward initiative rolls in midi-qol and since 2.1.x was released, you can't. This module kinda works around that.
+
 ## Installation
 
 Load the module using the following manifest:
